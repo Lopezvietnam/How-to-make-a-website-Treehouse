@@ -1,2 +1,2 @@
-# How-to-make-a-website-Treehouse
-This is the workspace form Treehouse: HTML and CSS 
+# How-to-make-a-website
+This is : HTML and CSS 
